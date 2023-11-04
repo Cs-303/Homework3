@@ -9,10 +9,16 @@
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/fa340c5d-62fc-4131-9438-4ce9e2ca6835)
 
-
+Queue menu
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/318bee87-038b-4d49-9900-4bff538bd73a)
 
+Enqueue
 
-![image](https://github.com/Cs-303/Homework3/assets/113368129/c064a0ba-7dc8-4f7d-b45c-159cd8bb0a77)
+![image](https://github.com/Cs-303/Homework3/assets/113368129/96098605-7486-44ec-a546-88124e690af9)
 
+![image](https://github.com/Cs-303/Homework3/assets/113368129/973ba695-cd5d-497f-9bb6-8f5ede4a35ed)
+
+![image](https://github.com/Cs-303/Homework3/assets/113368129/cadf741c-cb00-4e40-a05b-da666e65b487)
+
+![image](https://github.com/Cs-303/Homework3/assets/113368129/737585a0-b639-4b1d-a9fa-daf5c40339e1)
