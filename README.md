@@ -1,10 +1,11 @@
 # Homework3
 
-Infix-to-Post converter menu
+Infix-to-Post converter menu:  There will be a while loop for a menu that gives you 2 option to choose from.
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/7795c69a-782e-48f6-b32e-e7f16ee17ab6)
 
-Conversion
+Function C: Checks if the parenthesis within the input (infix expression) is balanced or not. 
+If balanced, converts infix into postfix. 
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/6314a49a-b04c-4f17-b443-ef4dfc1ca139)
 
