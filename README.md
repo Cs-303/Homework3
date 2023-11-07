@@ -48,12 +48,15 @@ Function 2: Deque an item fron the front if possible. If queue is empty, throw r
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/9c4d6cd1-cc6b-4395-bf9c-b13722c06d72)
 
+![image](https://github.com/Cs-303/Homework3/assets/113368129/192d158e-fb23-4caf-abba-ee285681e6d8)
 
-Function 3: returns item from the front
+Function 3: returns item from the front. if queue is empty, throw runtime error
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/2167036d-9904-4876-8152-bca5892f9161)
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/7b227c89-5fa3-4e0e-a757-c577efb3997d)
+
+![image](https://github.com/Cs-303/Homework3/assets/113368129/f696bd3a-0b21-44df-bd67-a798b2bf3f4e)
 
 Function 4: checks if queue is empty or not
 
