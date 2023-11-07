@@ -18,8 +18,9 @@ Function Q: Quits menu to go to queue menu
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/fa340c5d-62fc-4131-9438-4ce9e2ca6835)
 
+.
 
-
+.
 
 Queue menu:  There will be a while loop for a menu that gives you 6 option to choose from.
 
@@ -64,6 +65,8 @@ Function 5: return size of queue
 
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/bf74b2ab-1a06-4f37-a769-810c0d0316d2)
 
-Function Q: quits menu and program all together
 ![image](https://github.com/Cs-303/Homework3/assets/113368129/9007f14c-9350-4dd5-b6c2-9e9066aacb9e)
 
+Function Q: quits menu and program all together
+
+![image](https://github.com/Cs-303/Homework3/assets/113368129/f9eb8c0b-66bb-4868-bd36-f820ccb55379)
